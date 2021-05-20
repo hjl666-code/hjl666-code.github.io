@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjl666-code.github.io</id>
     <title>hjl666 | accelerator</title>
-    <updated>2021-05-20T13:17:31.603Z</updated>
+    <updated>2021-05-20T13:22:56.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hjl666-code.github.io"/>
     <link rel="self" href="https://hjl666-code.github.io/atom.xml"/>
@@ -65,35 +65,71 @@ int main(){
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hjl666-code.github.io/post/hello-gridea/</id>
-        <link href="https://hjl666-code.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[hjl666的blog]]></title>
+        <id>https://hjl666-code.github.io/post/主页/</id>
+        <link href="https://hjl666-code.github.io/post/主页/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <summary type="html"><![CDATA[<h1 id="afo">AFO</h1>
+<h3 id="退役oier">退役OIer</h3>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Pink"><mtext mathvariant="monospace">[樱花落下的速度是每秒五厘米,我该用怎么样的速度,才能与你相遇]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Pink}\texttt{[樱花落下的速度是每秒五厘米,我该用怎么样的速度,才能与你相遇]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333299999999999em;vertical-align:-0.13889em;"></span><span class="mord text" style="color:Pink;"><span class="mord texttt" style="color:Pink;">[</span><span class="mord texttt cjk_fallback" style="color:Pink;">樱花落下的速度是每秒五厘米</span><span class="mord texttt" style="color:Pink;">,</span><span class="mord texttt cjk_fallback" style="color:Pink;">我该用怎么样的速度</span><span class="mord texttt" style="color:Pink;">,</span><span class="mord texttt cjk_fallback" style="color:Pink;">才能与你相遇</span><span class="mord texttt" style="color:Pink;">]</span></span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="CornflowerBlue"><mtext mathvariant="monospace">[雨滴降落的速度是每秒十米,我该用怎么样的速度,才能将你挽留]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{CornflowerBlue}\texttt{[雨滴降落的速度是每秒十米,我该用怎么样的速度,才能将你挽留]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333299999999999em;vertical-align:-0.13889em;"></span><span class="mord text" style="color:CornflowerBlue;"><span class="mord texttt" style="color:CornflowerBlue;">[</span><span class="mord texttt cjk_fallback" style="color:CornflowerBlue;">雨滴降落的速度是每秒十米</span><span class="mord texttt" style="color:CornflowerBlue;">,</span><span class="mord texttt cjk_fallback" style="color:CornflowerBlue;">我该用怎么样的速度</span><span class="mord texttt" style="color:CornflowerBlue;">,</span><span class="mord texttt cjk_fallback" style="color:CornflowerBlue;">才能将你挽留</span><span class="mord texttt" style="color:CornflowerBlue;">]</span></span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Plum"><mtext mathvariant="monospace">[陨石坠落的速度是每秒十千米,我该用怎么样的速度,才能将你拯救]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Plum}\texttt{[陨石坠落的速度是每秒十千米,我该用怎么样的速度,才能将你拯救]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333299999999999em;vertical-align:-0.13889em;"></span><span class="mord text" style="color:Plum;"><span class="mord texttt" style="color:Plum;">[</span><span class="mord texttt cjk_fallback" style="color:Plum;">陨石坠落的速度是每秒十千米</span><span class="mord texttt" style="color:Plum;">,</span><span class="mord texttt cjk_fallback" style="color:Plum;">我该用怎么样的速度</span><span class="mord texttt" style="color:Plum;">,</span><span class="mord texttt cjk_fallback" style="color:Plum;">才能将你拯救</span><span class="mord texttt" style="color:Plum;">]</span></span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="SkyBlue"><mtext mathvariant="monospace">[阳光消散的速度是每秒三十万千米，我该用怎样的速度，才能将你换回]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{SkyBlue}\texttt{[阳光消散的速度是每秒三十万千米，我该用怎样的速度，才能将你换回]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="mord text" style="color:SkyBlue;"><span class="mord texttt" style="color:SkyBlue;">[</span><span class="mord texttt cjk_fallback" style="color:SkyBlue;">阳光消散的速度是每秒三十万千米，我该用怎样的速度，才能将你换回</span><span class="mord texttt" style="color:SkyBlue;">]</span></span></span></span></span></span></p>
+<hr>
+<p>Je t 'aime, celui que j' aime</p>
+<p>“一花一世界，一叶一追寻，一曲一场叹，一生为一人。”</p>
+<p>山本无忧,因雪白头,水本无愁,因风起皱</p>
+<p>I love three things in this world.Sun, moon and you.</p>
+<p>Sun for morning, moon for night,and you forever.</p>
+<hr>
+<h1 id="主页"><a href="https://www.luogu.com.cn/blog/hjl666/xin-ban-bo-ke">主页</a></h1>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="orange"><mtext mathvariant="monospace">快捷方式</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{orange}\texttt{快捷方式}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.61111em;vertical-align:0em;"></span><span class="mord text" style="color:orange;"><span class="mord texttt cjk_fallback" style="color:orange;">快捷方式</span></span></span></span></span></span></p>
+<p><a href="https://www.luogu.org/paste/b30a183h">读入优化</a></p>
+<p><a href="https://www.luogu.com.cn/paste/midd9jnu">模板</a></p>
+<p><a href="https://www.luogu.com.cn/paste/zfug4ziz">离散化</a></p>
+<p><a href="https://www.luogu.com.cn/paste/fcy3r9dl">高精度（方便）</a></p>
+<p><a href="https://www.luogu.org/paste/z3jgs5sn">高精度（垃圾版）</a></p>
+<p><a href="https://www.luogu.org/paste/pjdhtl40">高精度(大佬版)</a></p>
+<p><a href="https://www.luogu.org/paste/b7a9n4ct">判素数</a></p>
+<figure data-type="image" tabindex="1"><img src="https://api.ixiaowai.cn/mcapi/mcapi.php" alt="" loading="lazy"></figure>
+<hr>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<h1 id="afo">AFO</h1>
+<h3 id="退役oier">退役OIer</h3>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Pink"><mtext mathvariant="monospace">[樱花落下的速度是每秒五厘米,我该用怎么样的速度,才能与你相遇]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Pink}\texttt{[樱花落下的速度是每秒五厘米,我该用怎么样的速度,才能与你相遇]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333299999999999em;vertical-align:-0.13889em;"></span><span class="mord text" style="color:Pink;"><span class="mord texttt" style="color:Pink;">[</span><span class="mord texttt cjk_fallback" style="color:Pink;">樱花落下的速度是每秒五厘米</span><span class="mord texttt" style="color:Pink;">,</span><span class="mord texttt cjk_fallback" style="color:Pink;">我该用怎么样的速度</span><span class="mord texttt" style="color:Pink;">,</span><span class="mord texttt cjk_fallback" style="color:Pink;">才能与你相遇</span><span class="mord texttt" style="color:Pink;">]</span></span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="CornflowerBlue"><mtext mathvariant="monospace">[雨滴降落的速度是每秒十米,我该用怎么样的速度,才能将你挽留]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{CornflowerBlue}\texttt{[雨滴降落的速度是每秒十米,我该用怎么样的速度,才能将你挽留]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333299999999999em;vertical-align:-0.13889em;"></span><span class="mord text" style="color:CornflowerBlue;"><span class="mord texttt" style="color:CornflowerBlue;">[</span><span class="mord texttt cjk_fallback" style="color:CornflowerBlue;">雨滴降落的速度是每秒十米</span><span class="mord texttt" style="color:CornflowerBlue;">,</span><span class="mord texttt cjk_fallback" style="color:CornflowerBlue;">我该用怎么样的速度</span><span class="mord texttt" style="color:CornflowerBlue;">,</span><span class="mord texttt cjk_fallback" style="color:CornflowerBlue;">才能将你挽留</span><span class="mord texttt" style="color:CornflowerBlue;">]</span></span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="Plum"><mtext mathvariant="monospace">[陨石坠落的速度是每秒十千米,我该用怎么样的速度,才能将你拯救]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{Plum}\texttt{[陨石坠落的速度是每秒十千米,我该用怎么样的速度,才能将你拯救]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333299999999999em;vertical-align:-0.13889em;"></span><span class="mord text" style="color:Plum;"><span class="mord texttt" style="color:Plum;">[</span><span class="mord texttt cjk_fallback" style="color:Plum;">陨石坠落的速度是每秒十千米</span><span class="mord texttt" style="color:Plum;">,</span><span class="mord texttt cjk_fallback" style="color:Plum;">我该用怎么样的速度</span><span class="mord texttt" style="color:Plum;">,</span><span class="mord texttt cjk_fallback" style="color:Plum;">才能将你拯救</span><span class="mord texttt" style="color:Plum;">]</span></span></span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="SkyBlue"><mtext mathvariant="monospace">[阳光消散的速度是每秒三十万千米，我该用怎样的速度，才能将你换回]</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{SkyBlue}\texttt{[阳光消散的速度是每秒三十万千米，我该用怎样的速度，才能将你换回]}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="mord text" style="color:SkyBlue;"><span class="mord texttt" style="color:SkyBlue;">[</span><span class="mord texttt cjk_fallback" style="color:SkyBlue;">阳光消散的速度是每秒三十万千米，我该用怎样的速度，才能将你换回</span><span class="mord texttt" style="color:SkyBlue;">]</span></span></span></span></span></span></p>
+<hr>
+<p>Je t 'aime, celui que j' aime</p>
+<p>“一花一世界，一叶一追寻，一曲一场叹，一生为一人。”</p>
+<p>山本无忧,因雪白头,水本无愁,因风起皱</p>
+<p>I love three things in this world.Sun, moon and you.</p>
+<p>Sun for morning, moon for night,and you forever.</p>
+<hr>
+<h1 id="主页"><a href="https://www.luogu.com.cn/blog/hjl666/xin-ban-bo-ke">主页</a></h1>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mstyle mathcolor="orange"><mtext mathvariant="monospace">快捷方式</mtext></mstyle></mrow><annotation encoding="application/x-tex">\color{orange}\texttt{快捷方式}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.61111em;vertical-align:0em;"></span><span class="mord text" style="color:orange;"><span class="mord texttt cjk_fallback" style="color:orange;">快捷方式</span></span></span></span></span></span></p>
+<p><a href="https://www.luogu.org/paste/b30a183h">读入优化</a></p>
+<p><a href="https://www.luogu.com.cn/paste/midd9jnu">模板</a></p>
+<p><a href="https://www.luogu.com.cn/paste/zfug4ziz">离散化</a></p>
+<p><a href="https://www.luogu.com.cn/paste/fcy3r9dl">高精度（方便）</a></p>
+<p><a href="https://www.luogu.org/paste/z3jgs5sn">高精度（垃圾版）</a></p>
+<p><a href="https://www.luogu.org/paste/pjdhtl40">高精度(大佬版)</a></p>
+<p><a href="https://www.luogu.org/paste/b7a9n4ct">判素数</a></p>
+<figure data-type="image" tabindex="1"><img src="https://api.ixiaowai.cn/mcapi/mcapi.php" alt="" loading="lazy"></figure>
+<hr>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
