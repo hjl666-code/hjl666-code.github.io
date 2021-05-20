@@ -2,14 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjl666-code.github.io</id>
     <title>hjl666 | accelerator</title>
-    <updated>2021-05-20T12:27:13.541Z</updated>
+    <updated>2021-05-20T12:45:25.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hjl666-code.github.io"/>
     <link rel="self" href="https://hjl666-code.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>人生若只如初见，何事秋风悲画扇</subtitle>
     <logo>https://hjl666-code.github.io/images/avatar.png</logo>
     <icon>https://hjl666-code.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, hjl666 | accelerator</rights>
+    <entry>
+        <title type="html"><![CDATA[Emacs使用指南]]></title>
+        <id>https://hjl666-code.github.io/post/emacs-shi-yong-zhi-nan/</id>
+        <link href="https://hjl666-code.github.io/post/emacs-shi-yong-zhi-nan/">
+        </link>
+        <updated>2021-05-20T12:31:19.000Z</updated>
+        <content type="html"><![CDATA[<p>众所周知，考场要用noilinux，所以Emacs还是得学的，不然。。。你就用vim吧</p>
+<h3 id="打开emacs">打开Emacs：</h3>
+<p>左上应用程序-&gt;编程-&gt;GNU Emacs 24(相信大家都会)</p>
+<h3 id="快捷键">快捷键</h3>
+<p>Ctrl+x 3：左右分屏</p>
+<p>Ctrl+x 2：上下分屏</p>
+<p>Ctrl+x 0：删除分屏</p>
+<p>Alt+x es：调用终端</p>
+<h3 id="配置文件">配置文件</h3>
+<p>这边建议平常也用考场配置</p>
+<pre><code>(global-set-key (kbd &quot;C-a&quot;) 'mark-whole-buffer) ;;全选
+(global-set-key (kbd &quot;C-z&quot;) 'undo) ;;撤销
+(global-set-key (kbd &quot;RET&quot;) 'newline-and-indent) ;;换行自动缩进
+(global-set-key (kbd &quot;C-s&quot;) 'save-buffer) ;;保存
+(setq-default kill-ring-max 65535)	；；防撤销失败
+</code></pre>
+<p>然后你就自己写代码吧</p>
+<h3 id="对拍">对拍：</h3>
+<p>check文件+返回时间ms</p>
+<pre><code>#include&lt;bits/stdc++.h&gt;
+using namespace std;
+int main(){
+	for(int i=1;i;i++){
+		system(&quot;./data&quot;);
+		int s=clock();
+	        system(&quot;./1&quot;);
+		int t=clock();
+		system(&quot;./2&quot;);
+		if(system(&quot;diff 1.out 2.out&quot;)){cout&lt;&lt;&quot;WA\n&quot;;return 0;}
+		cout&lt;&lt;i&lt;&lt;' '&lt;&lt;t-s&lt;&lt;&quot;AC\n&quot;;
+	}
+	return 0;
+}
+
+</code></pre>
+<p>data文件</p>
+<pre><code>#include&lt;bits/stdc++.h&gt;
+using namespace std;
+int main(){
+	freopen(&quot;data.in&quot;,&quot;w&quot;,stdout);
+	srand(time(NULL));
+	int a=rand(),b=rand();cout&lt;&lt;a&lt;&lt;' '&lt;&lt;b;
+	return 0;
+}
+
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hjl666-code.github.io/post/hello-gridea/</id>
